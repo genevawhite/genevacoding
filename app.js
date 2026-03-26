@@ -153,7 +153,7 @@ const App = {
       },
       {
         title:"Whale Anatomy, Maritime Threats, and Traditional Ecological Knowledge",
-        url:"safiya-fs.github.io/Whale-Anatomy-Module/ ",
+        url:"https://safiya-fs.github.io/Whale-Anatomy-Module/",
       },
       {
         title:"Indigenous Perspectives in Reducing Whale Harm in Shipping Practice",
