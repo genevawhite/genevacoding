@@ -58,11 +58,11 @@ const App = {
         showReferenceCard: ref(false) //This fucntion ensures that the card doesn't automatically open, it is linked to the open and close of the toggle. 
       },
       {
-        location: "Mahalat Nation, British Columbia",
+        location: "Malahat Nation, British Columbia",
         issue: "",
         response:"Underwater hydrophone stations",
         issueText:"British Columbia's coastal waters are populated with toothed and baleen whales as well as killer whales, humpback whales and fin whales. The marine vessel traffic through this area is currently growing, and is projected to continue  as industrial projects are implemented; vessel noise will then rise as a consequence. The noise emitted from vessels negatively impacts marine mammals' ability to hunt, communicate and breed, which poses a serious threat to the marine ecosystem and for whales in particular.",
-        responseText:"Underwater hydrophone systems provide an efficient method to detect underwater soundscapes, and the impact of vessels on marine mammals as a result. The Mahalat Nation sought to understand these human and non-human interactions and invested in developing 20 separate hydrophone stations to examine the underwater noises. With the data they collect, they hope to prevent damage done by vessels in their local waters.",
+        responseText:"Underwater hydrophone systems provide an efficient method to detect underwater soundscapes, and the impact of vessels on marine mammals as a result. The Malahat Nation sought to understand these human and non-human interactions and invested in developing 20 separate hydrophone stations to examine the underwater noises. With the data they collect, they hope to prevent damage done by vessels in their local waters.",
         cultureText:"The Malahat Nation has long been engaged in marine stewardship due to a close cultural connection particularly with the Southern Resident Killer Whales (“SRKW”). These whales appear as important figures in Malahat stories and are believed to embody the spirits of ancestors. Additionally, the Malahat people have traditionally relied on killer whales for assistance in catching salmon in their fishing nets. This relationship over many years is what has supported the Malahat dedication to marine stewardship and whale protection.",
         reference1Link: "https://clearseas.org/insights/mitigating-underwater-noise-with-indigenous-knowledge/",
         reference2: "Quantifying vessel noise and acoustic habitat loss in marine soundscapes",
